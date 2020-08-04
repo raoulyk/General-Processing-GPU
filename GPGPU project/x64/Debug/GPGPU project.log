@@ -1,0 +1,13 @@
+﻿  MetalPlate.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\ASUS\Desktop\Projects\VS\GPGPU project\dependencies\gl\glad.h(32): message : see previous definition of 'APIENTRY'
+C:\Users\ASUS\Desktop\Projects\VS\GPGPU project\MetalPlate.cpp(155,34): warning C4244: 'argument': conversion from 'GLfloat' to 'GLsizei', possible loss of data
+C:\Users\ASUS\Desktop\Projects\VS\GPGPU project\MetalPlate.cpp(159,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ASUS\Desktop\Projects\VS\GPGPU project\MetalPlate.cpp(159,48): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ASUS\Desktop\Projects\VS\GPGPU project\MetalPlate.cpp(160,29): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ASUS\Desktop\Projects\VS\GPGPU project\MetalPlate.cpp(160,62): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ASUS\Desktop\Projects\VS\GPGPU project\MetalPlate.cpp(161,29): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ASUS\Desktop\Projects\VS\GPGPU project\MetalPlate.cpp(161,62): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ASUS\Desktop\Projects\VS\GPGPU project\MetalPlate.cpp(162,29): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ASUS\Desktop\Projects\VS\GPGPU project\MetalPlate.cpp(162,62): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  GPGPU project.vcxproj -> C:\Users\ASUS\Desktop\Projects\VS\GPGPU project\x64\Debug\GPGPU project.exe

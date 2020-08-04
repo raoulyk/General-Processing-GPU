@@ -1,0 +1,2 @@
+C:\Users\ASUS\Desktop\Projects\VS\GPGPU project\x64\Debug\GPGPU project.exe
+C:\Users\ASUS\Desktop\Projects\VS\GPGPU project\x64\Debug\GPGPU project.pdb
